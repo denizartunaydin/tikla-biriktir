@@ -1,3 +1,3 @@
 # Tıkla Biriktir
 
-Flutter tabanlı firbase ile crud işlemleri
+Flutter tabanlı firebase ile crud işlemleri
